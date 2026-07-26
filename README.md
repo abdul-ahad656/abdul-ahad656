@@ -21,8 +21,6 @@ Building production ready AI applications powered by LLMs, RAG, AI Agents, and s
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1500&color=4F8EF7&center=true&vCenter=true&width=850&lines=AI+Full+Stack+Engineer;Building+Production+Ready+AI+Applications;LLMs+•+RAG+•+AI+Agents+•+Automation;FastAPI+•+Next.js+•+React+•+Python"/>
-
 </div>
 
 ---
@@ -40,24 +38,6 @@ Most of my work focuses on AI SaaS products, intelligent automation, backend arc
 - ⚡ Creating scalable backend systems with FastAPI and Python
 - ☁ Deploying cloud native applications using Docker and Google Cloud
 - 🌱 Exploring distributed AI systems and advanced agent orchestration
-
----
-
-## 🌐 Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/abdul-ahad-ai-developer">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adibutt457@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/abdul-ahad656">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 ---
 
@@ -176,6 +156,114 @@ Most of my work focuses on AI SaaS products, intelligent automation, backend arc
 
 ---
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 HealWise
+
+AI powered healthcare platform bringing consultations, prescriptions, payments, and symptom analysis into a single ecosystem.
+
+**Highlights**
+
+- AI Symptom Checker
+- Speech to Text
+- Doctor & Patient Portal
+- Stripe Payments
+- Containerized Deployment
+
+**Tech**
+
+`FastAPI` `React` `MongoDB` `Docker` `Google Cloud`
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Document Intelligence
+
+Retrieval powered document platform capable of searching and understanding thousands of documents in seconds.
+
+**Highlights**
+
+- Semantic Search
+- Vector Database
+- Intelligent Chunking
+- Production RAG Pipeline
+
+**Tech**
+
+`Python` `RAG` `ChromaDB` `Hugging Face`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🚀 Schmoozzer 10X AC
+
+AI powered outreach platform built on ActiveCampaign for automated multichannel engagement.
+
+**Highlights**
+
+- LinkedIn Integration
+- Instagram Automation
+- WhatsApp
+- Email Automation
+- CRM Workflows
+
+**Tech**
+
+`FastAPI`
+`Next.js`
+`PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+### ⚡ AI Automation
+
+Building workflow automation using AI agents and modern automation platforms.
+
+**Platforms**
+
+- n8n
+- Zapier
+- GoHighLevel
+- ManyChat
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdul-ahad656&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=abdul-ahad656&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-ahad656&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 # 📈 GitHub Stats
 
 <p align="center">
@@ -204,8 +292,59 @@ Most of my work focuses on AI SaaS products, intelligent automation, backend arc
 
 ---
 
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdul-ahad656&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</div>
+
+---
+
+## Currently Exploring
+
+- Multi Agent AI Systems
+- Advanced RAG Architectures
+- MCP (Model Context Protocol)
+- Distributed AI Applications
+- Kubernetes for AI Workloads
+- Production Scale LLM Systems
+
+---
+
+## Let's Connect
+
+<p align="center">
+
+<a href="mailto:adibutt457@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abdul-ahad-ai-developer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/abdul-ahad656">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=abdul-ahad656&style=for-the-badge"/>
 
 </p>
+
+---
+
+---
+
+<div align="center">
+
+### Building software that solves problems, not just demonstrates technology.
+
+</div>
