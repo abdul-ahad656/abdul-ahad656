@@ -57,7 +57,7 @@ Most of my work focuses on AI SaaS products, intelligent automation, backend arc
 
 <td>⚙ Backend</td>
 
-<td>FastAPI • Flask • REST APIs • Microservices</td>
+<td>FastAPI • Flask • NodeJs • REST APIs • Microservices</td>
 
 </tr>
 
