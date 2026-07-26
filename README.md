@@ -1,4 +1,4 @@
-## Hi there 👋<br><br>Building AI products that solve real business problems, from intelligent SaaS platforms and RAG systems to automation workflows and scalable backend infrastructure. Most of my work revolves around turning complex ideas into production-ready applications with clean architecture and practical AI.<br><br>### About Me<br><br>🔭 Currently working on **AI SaaS platforms, intelligent automation systems, and production-ready RAG applications**<br><br>👯 Looking to collaborate on **AI products, developer tools, open source, and scalable SaaS platforms**<br><br>🤝 Looking for help with **distributed AI systems, multi-agent architectures, and high-scale infrastructure**<br><br>🌱 Currently learning **advanced AI agent orchestration, Kubernetes, AWS, and large-scale system design**<br><br>💬 Ask me about **FastAPI, Next.js, React, Python, RAG, AI Agents, LLMs, backend architecture, and automation workflows**<br><br>⚡ Fun fact: **I enjoy building products where AI handles the repetitive work so people can focus on decisions that actually matter.**
+## Hi there 👋<br><br>Building AI products that solve real business problems, from intelligent SaaS platforms and RAG systems to automation workflows and scalable backend infrastructure. Most of my work revolves around turning complex ideas into production-ready applications with clean architecture and practical AI.<br><br>About Me<br><br>🔭 Currently working on **AI SaaS platforms, intelligent automation systems, and production-ready RAG applications**<br><br>👯 Looking to collaborate on **AI products, developer tools, open source, and scalable SaaS platforms**<br><br>🤝 Looking for help with **distributed AI systems, multi-agent architectures, and high-scale infrastructure**<br><br>🌱 Currently learning **advanced AI agent orchestration, Kubernetes, AWS, and large-scale system design**<br><br>💬 Ask me about **FastAPI, Next.js, React, Python, RAG, AI Agents, LLMs, backend architecture, and automation workflows**<br><br>⚡ Fun fact: **I enjoy building products where AI handles the repetitive work so people can focus on decisions that actually matter.**
 
 
 ## 🌐 Socials:
@@ -11,14 +11,8 @@
 ![](https://streak-stats.demolab.com/?user=abdul-ahad656&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdul-ahad656&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdul-ahad656&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdul-ahad656&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=abdul-ahad656&icon=0&color=9)](https://visitcount.itsvg.in)
