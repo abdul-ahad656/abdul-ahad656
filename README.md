@@ -1,4 +1,18 @@
-## Hi there 👋<br><br>Building AI products that solve real business problems, from intelligent SaaS platforms and RAG systems to automation workflows and scalable backend infrastructure. Most of my work revolves around turning complex ideas into production-ready applications with clean architecture and practical AI.<br><br>About Me<br><br>🔭 Currently working on **AI SaaS platforms, intelligent automation systems, and production-ready RAG applications**<br><br>👯 Looking to collaborate on **AI products, developer tools, open source, and scalable SaaS platforms**<br><br>🤝 Looking for help with **distributed AI systems, multi-agent architectures, and high-scale infrastructure**<br><br>🌱 Currently learning **advanced AI agent orchestration, Kubernetes, AWS, and large-scale system design**<br><br>💬 Ask me about **FastAPI, Next.js, React, Python, RAG, AI Agents, LLMs, backend architecture, and automation workflows**<br><br>⚡ Fun fact: **I enjoy building products where AI handles the repetitive work so people can focus on decisions that actually matter.**
+## Hi there 👋
+
+Building AI powered SaaS products, RAG systems, and automation that solve real business problems with clean, scalable engineering.
+
+### About Me
+
+🔭 Working on **AI SaaS, RAG applications, and intelligent automation**
+
+👯 Open to collaborating on **AI products, open source, and developer tools**
+
+🌱 Exploring **AI agents, distributed systems, and cloud infrastructure**
+
+💬 Ask me about **FastAPI, Next.js, React, Python, LLMs, RAG, and backend architecture**
+
+⚡ Fun fact: **I enjoy turning repetitive workflows into AI powered systems.**
 
 
 ## 🌐 Socials:
