@@ -27,15 +27,19 @@ Building production ready AI applications powered by LLMs, RAG, AI Agents, and s
 
 ---
 
-## 🚀 About
+## About
 
-Building AI powered SaaS products, intelligent automation, and retrieval systems with a strong focus on scalable backend engineering.
+Building software where AI solves real business problems.
 
-- 🔭 Building AI SaaS products and production ready RAG systems
-- 🤝 Open to AI, SaaS and open source collaborations
-- 🌱 Learning distributed AI systems and cloud architecture
-- 💬 Ask me about FastAPI, Python, React, Next.js, AI Agents and LLMs
-- ⚡ Favorite part of software engineering is replacing repetitive work with automation
+Most of my work focuses on AI SaaS products, intelligent automation, backend architecture, and retrieval systems designed for production. I enjoy transforming complex workflows into reliable software that scales.
+
+## Current Focus
+
+- 🚀 Building AI SaaS platforms and production ready AI applications
+- 🧠 Designing AI Agents and Retrieval Augmented Generation pipelines
+- ⚡ Creating scalable backend systems with FastAPI and Python
+- ☁ Deploying cloud native applications using Docker and Google Cloud
+- 🌱 Exploring distributed AI systems and advanced agent orchestration
 
 ---
 
@@ -57,15 +61,81 @@ Building AI powered SaaS products, intelligent automation, and retrieval systems
 
 ---
 
+## Expertise
+
+<table>
+
+<tr>
+
+<td>🧠 AI Engineering</td>
+
+<td>LLMs • RAG • AI Agents • Prompt Engineering</td>
+
+</tr>
+
+<tr>
+
+<td>⚙ Backend</td>
+
+<td>FastAPI • Flask • REST APIs • Microservices</td>
+
+</tr>
+
+<tr>
+
+<td>🌐 Frontend</td>
+
+<td>React • Next.js • React Native • TypeScript</td>
+
+</tr>
+
+<tr>
+
+<td>☁ Cloud</td>
+
+<td>Docker • Google Cloud • AWS • Kubernetes</td>
+
+</tr>
+
+<tr>
+
+<td>🤖 Automation</td>
+
+<td>n8n • Zapier • GoHighLevel</td>
+
+</tr>
+
+</table>
+
+---
+
 # 💻 Tech Stack
 
 ### AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain)
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E3A8A?style=for-the-badge)
+
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-3B82F6?style=for-the-badge)
+
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A67D8?style=for-the-badge)
+
+![Pinecone](https://img.shields.io/badge/Pinecone-0F172A?style=for-the-badge)
+
+![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge)
 
 ### Backend
 
