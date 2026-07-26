@@ -292,16 +292,6 @@ Building workflow automation using AI agents and modern automation platforms.
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdul-ahad656&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-
-</div>
-
----
-
 ## Currently Exploring
 
 - Multi Agent AI Systems
