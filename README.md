@@ -1,14 +1,29 @@
-<h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
+<div align="center">
 
-<p align="center">
-AI Full Stack Engineer building scalable SaaS products, AI agents, RAG systems, and intelligent automation.
+# Abdul Ahad
+
+### AI Full Stack Engineer • AI Systems Builder • SaaS Developer
+
+Building production ready AI applications powered by LLMs, RAG, AI Agents, and scalable cloud infrastructure.
+
+<p>
+  <a href="https://linkedin.com/in/abdul-ahad-ai-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:adibutt457@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/abdul-ahad656">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
 </p>
 
-<p align="center">
-<a href="https://github.com/abdul-ahad656">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI+Full+Stack+Engineer;Building+Production+Ready+AI+Applications;FastAPI+%7C+Next.js+%7C+React+%7C+LLMs;Turning+Ideas+Into+Scalable+Products" />
-</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1500&color=4F8EF7&center=true&vCenter=true&width=850&lines=AI+Full+Stack+Engineer;Building+Production+Ready+AI+Applications;LLMs+•+RAG+•+AI+Agents+•+Automation;FastAPI+•+Next.js+•+React+•+Python"/>
+
+</div>
 
 ---
 
