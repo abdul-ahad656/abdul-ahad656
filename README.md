@@ -171,26 +171,6 @@ Most of my work focuses on AI SaaS products, intelligent automation, backend arc
 
 ---
 
-## Let's Connect
-
-<p align="center">
-
-<a href="mailto:adibutt457@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/abdul-ahad-ai-developer">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/abdul-ahad656">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=abdul-ahad656&style=for-the-badge"/>
