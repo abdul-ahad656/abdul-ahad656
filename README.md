@@ -12,7 +12,7 @@
 
 *Building production-grade AI systems and SaaS — RAG pipelines, agentic workflows, and full-stack delivery from architecture through deployment.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=22CC88&size=20&center=true&vCenter=true&width=600&pause=1200&lines=LLMs+%26+RAG;Multi-Agent+Systems;Full+Stack+AI+Engineering;AI+Automation+%26+SaaS;RAG+%C2%B7+Agents+%C2%B7+Production+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=22CC88&size=20&center=true&vCenter=true&width=600&pause=1200&lines=Full+Stack+AI+Engineering;LLMs+%26+RAG;Multi-Agent+Systems;AI+Automation+%26+SaaS;RAG+%C2%B7+Agents+%C2%B7+Production+AI)](https://git.io/typing-svg)
 
 
 </div>
