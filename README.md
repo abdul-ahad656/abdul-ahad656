@@ -2,23 +2,26 @@
 
 # Abdul Ahad
 
-### AI Full Stack Engineer • AI Systems Builder • SaaS Developer
+### AI Full Stack Engineer • AI Systems Builder • AI SaaS Developer
 
-Building production ready AI applications powered by LLMs, RAG, AI Agents, and scalable cloud infrastructure.
+Building intelligent software with **LLMs**, **RAG**, **AI Agents**, and scalable backend architecture.
 
 <p>
   <a href="https://linkedin.com/in/abdul-ahad-ai-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
+  &nbsp;
   <a href="mailto:adibutt457@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
+  &nbsp;
   <a href="https://github.com/abdul-ahad656">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=4ADE80&center=true&vCenter=true&width=750&lines=LLMs+•+RAG+•+AI+Agents;FastAPI+•+Python+•+Next.js;React+•+TypeScript+•+Node.js;AWS+•+Google+Cloud+•+Docker;LangChain+•+OpenAI+•+Anthropic;Automation+•+n8n+•+GoHighLevel" alt="Typing Animation"/>
 </p>
 
 </div>
