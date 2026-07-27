@@ -2,7 +2,7 @@
 
 # Abdul Ahad
 
-### Full Stack AI Engineer · AI Systems Builder · SaaS Developer @ VisionsCraft
+### Full Stack AI Engineer · AI Systems Builder · SaaS Developer
 
 <p>
   <img src="https://img.shields.io/badge/LOCATION-PAKISTAN%20(REMOTE)-111111?style=flat-square&labelColor=111111&color=222222"/>
@@ -14,17 +14,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=22CC88&size=20&center=true&vCenter=true&width=600&pause=1200&lines=LLMs+%26+RAG;Multi-Agent+Systems;Full+Stack+AI+Engineering;AI+Automation+%26+SaaS;RAG+%C2%B7+Agents+%C2%B7+Production+AI)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://linkedin.com/in/abdul-ahad-ai-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:adibutt457@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abdul-ahad656">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 </div>
 
