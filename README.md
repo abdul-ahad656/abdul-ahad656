@@ -147,14 +147,13 @@ Most of my work focuses on AI SaaS products, intelligent automation, backend arc
 
 ---
 
-## Currently Exploring
+## Contribution Activity
 
-- Multi Agent AI Systems
-- Advanced RAG Architectures
-- MCP (Model Context Protocol)
-- Distributed AI Applications
-- Kubernetes for AI Workloads
-- Production Scale LLM Systems
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-ahad656&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
